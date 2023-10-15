@@ -20,7 +20,7 @@
 I am a random full stack developer from earth 🌍
 - ❔ | Doing something random 
 - 🏝️ | Taking breaks from code
-- 🤖 | Doing [Discord bots](https://formie.gg/)
+- 🤖 | Doing [Discord bots](https://formie.pro/)
 ---
 ### 📜 My statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anime-Forevere&theme=dark&background=262626)](https://git.io/streak-stats)
